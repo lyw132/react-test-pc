@@ -1,7 +1,6 @@
 // 添加自定义对webpack的配置
 
 const path = require("path");
-const path = require("path");
 const { whenProd, getPlugin, pluginByName } = require("@craco/craco");
 
 module.exports = {
